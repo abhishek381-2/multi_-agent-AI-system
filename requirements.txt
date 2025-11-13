@@ -1,3 +1,4 @@
 streamlit
 PyMuPDF
-# any other libraries like pandas, numpy, etc.
+ollama
+# Add any other required packages here
