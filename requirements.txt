@@ -1,0 +1,3 @@
+streamlit
+PyMuPDF
+... # any other libraries like pandas, numpy, etc.
