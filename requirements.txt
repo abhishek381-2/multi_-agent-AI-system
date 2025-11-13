@@ -1,4 +1,5 @@
 streamlit
 PyMuPDF
 ollama
+firebase-admin
 # Add any other required packages here
